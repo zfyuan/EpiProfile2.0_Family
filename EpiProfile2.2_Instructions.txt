@@ -1,0 +1,7 @@
+Instructions:
+1. run EpiConverter (data format from *.wiff to *.mat)
+
+2. if data are ready via step 1, directly go to step 3;
+otherwise, manually prepare the data for EpiProfile (MS1, MS2 folders with *.mat files inside and empty *.raw files via *.txt files)
+
+3. run EpiProfile2.2
